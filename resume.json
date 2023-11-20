@@ -35,8 +35,6 @@
     "name": "Adobe",
     "position": "Senior Frontend Developer",
     "url": "https://adobe.com",
-    "startDate": "27-05-2019",
-    "endDate": "Present",
     "summary": "Working as a senior consultant at Adobe, I have led and individually contributed to a number of projects for companies like State of Oklahoma, McDonalds, Sears, Techdata, Manulife, United healthcare limited, Alex Forbes etc. Each project comprised small to medium sized developers and stakeholders.",
     "highlights": [
       "Awarded 'Best project of the year 2021 at Adobe' where I was the the UI lead",
@@ -49,8 +47,6 @@
     "name": "Vimeo",
     "position": "Software Engineer",
     "url": "https://vimeo.com",
-    "startDate": "2017",
-    "endDate": "2019",
     "summary": "Worked as a Software Frontend Engineer, I was part of the team that built the Vimeo stocks app. I was the individual contributor for many customer-facing high-interaction components like “Add to Album” and “Add to Collection”. Worked on improving the existing design system and implemented a reusable component library that could be leveraged within the company.",
     "highlights": [
       "Built “Add to Album” and animations involved in “Add to collection” feature of the product.",
@@ -61,8 +57,6 @@
     "name": "Inkoniq",
     "position": "Frontend Developer",
     "url": "https://inkoniq.com",
-    "startDate": "2015",
-    "endDate": "2017",
     "summary": "Worked as a Frontend developer. I was an individual contributor. I held direct interaction with the customer and delivered different projects to different customers based on their requirements. Here, I worked mainly as a sole FE developer on the projects.",
     "highlights": [
       "I worked as an individual contributor, I worked on projects in AngularJS with extensive API integration. I also worked on many complex projects that involved visual representation of data using charts and 3d rendering using three.js.",
@@ -72,9 +66,7 @@
   },  {
     "name": "Wiredelta",
     "position": "Frontend Developer",
-    "url": "https://wiredelta.com",
-    "startDate": "2014",
-    "endDate": "2015"
+    "url": "https://wiredelta.com"
   }],
   "education": [{
     "institution": "Vishweshwaraya Technological University",
